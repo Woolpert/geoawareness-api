@@ -4,7 +4,7 @@ The REST API provides access to the GeoAwareness data model and telemetry event 
 
 ## Run Locally
 
-Running the API locally is useful for testing and debugging. Download the service account credentials created when standing up the [geoawareness-geofencing](https://github.com/woolpert-googlecloud/geoawareness-geofencing) service.
+Running the API locally is useful for testing and debugging. Download the service account credentials created when standing up the [geoawareness-geofencing](https://github.com/woolpert/geoawareness-geofencing) service.
 
 ```
 export GOOGLE_APPLICATION_CREDENTIALS=geoawareness-service-account-credentials.json
