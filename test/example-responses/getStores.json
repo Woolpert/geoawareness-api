@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Carmelit",
+    "location": {
+      "latitude": 36.650717,
+      "longitude": -93.220024
+    },
+    "address": "504 Veterans Blvd, Branson, MO 65616"
+  },
+  {
+    "name": "Napoli",
+    "location": {
+      "latitude": 37.162649,
+      "longitude": -93.308840
+    },
+    "address": "3600 S Fort Ave, Springfield, MO 65807"
+  },
+  {
+    "name": "Montmartre",
+    "location": {
+      "latitude": 36.126373,
+      "longitude": -94.159907
+    },
+    "address": "202 W Joyce Blvd, Fayetteville, AR 72703"
+  }
+]

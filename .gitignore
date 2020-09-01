@@ -1,0 +1,6 @@
+.env
+*.DS_Store
+node_modules/
+
+*-service-account-credentials.json
+geoawareness-api-touched.yaml

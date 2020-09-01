@@ -1,0 +1,107 @@
+[
+  {
+    "orderId": "13579",
+    "storeName": "Carmelit",
+    "status": [
+      "open"
+    ],
+    "latestEvent": {
+      "eventLocation": {
+        "latitude": 36.620942,
+        "longitude": -93.219398
+      },
+      "eventTimestamp": "2020-04-25T18:00:30Z",
+      "innerGeofence": {
+        "rangeType": "time",
+        "range": 600,
+        "intersectsEvent": true
+      },
+      "geofences": [
+        {
+          "rangeType": "time",
+          "range": 120,
+          "intersectsEvent": false
+        },
+        {
+          "rangeType": "time",
+          "range": 300,
+          "intersectsEvent": false
+        },
+        {
+          "rangeType": "time",
+          "range": 600,
+          "intersectsEvent": true
+        }
+      ]
+    }
+  },
+  {
+    "orderId": "24680",
+    "storeName": "Carmelit",
+    "status": [
+      "open"
+    ],
+    "latestEvent": {
+      "eventLocation": {
+        "latitude": 36.615895,
+        "longitude": -93.276435
+      },
+      "eventTimestamp": "2020-04-25T18:01:30Z",
+      "innerGeofence": {},
+      "geofences": [
+        {
+          "rangeType": "time",
+          "range": 120,
+          "intersectsEvent": false
+        },
+        {
+          "rangeType": "time",
+          "range": 300,
+          "intersectsEvent": false
+        },
+        {
+          "rangeType": "time",
+          "range": 600,
+          "intersectsEvent": false
+        }
+      ]
+    }
+  },
+  {
+    "orderId": "62810",
+    "storeName": "Carmelit",
+    "status": [
+      "closed"
+    ],
+    "latestEvent": {
+      "eventLocation": {
+        "latitude": 36.650718,
+        "longitude": -93.220023
+      }
+      ,
+      "eventTimestamp": "2020-04-25T18:02:30Z",
+      "innerGeofence": {
+        "rangeType": "time",
+        "range": 120,
+        "intersectsEvent": true
+      },
+      "geofences": [
+        {
+          "rangeType": "time",
+          "range": 120,
+          "intersectsEvent": true
+        },
+        {
+          "rangeType": "time",
+          "range": 300,
+          "intersectsEvent": true
+        },
+        {
+          "rangeType": "time",
+          "range": 600,
+          "intersectsEvent": true
+        }
+      ]
+    }
+  }
+]
